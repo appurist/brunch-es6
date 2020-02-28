@@ -22,5 +22,8 @@ Thumbs.db
 # NPM packages folder.
 node_modules/
 
-# Brunch output folder.
+# Brunch default and updated output folders.
 public/
+dist/
+
+yarn.lock
